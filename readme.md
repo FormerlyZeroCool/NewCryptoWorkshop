@@ -11,6 +11,6 @@ Try it now!
 
 
 --
-Andrew Rubinsteen
-Anfernee
+Andrew Rubinsteen,
+Anfernee Jervis and
 Dr. Azhar 
